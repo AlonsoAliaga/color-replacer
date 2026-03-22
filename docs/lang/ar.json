@@ -1,0 +1,71 @@
+{
+  "header": {
+    "warning": "استخدم Google Chrome أو Opera للحصول على تجربة أفضل. يُذكر أن Edge غير متوافق!"
+  },
+  "desc": {
+    "title": "لماذا تستخدم هذه الأداة؟",
+    "p1": "قم بتحميل صور متعددة واستبدل ألوانًا معينة دفعة واحدة على الفور. مثالي لتحديث <span class='rainbow'>الخامات (textures) والسبرايت (sprites)</span>! تشمل الميزات التحريك والتكبير، والعرض المقسم، وتغيير درجة اللون العالمية، والحفاظ على التظليل لتلوين سلس.",
+    "tagline": "إعادة تلوين الصور دفعة واحدة أصبح سهلاً!",
+    "donate_full": "⚠️ إذا كان لديك أفكار رائعة، اقترحها في <a href='https://alonsoaliaga.com/discord' style='text-decoration:underline;'>خادم الديسكورد الرسمي</a> الخاص بنا.<br><span style='white-space:normal; line-height: 1.6; display:inline-block; margin-top:4px;'><img width='15px' src='https://i.imgur.com/Ef9FOQm.png' style='display:inline-block; vertical-align:middle; margin-bottom:2px; margin-right:4px;'>إذا وجدت هذه الأداة مفيدة، فكر في <a href='https://alonsoaliaga.com/donate' style='text-decoration:underline;'>تقديم تبرع</a> لعملنا الشاق. نحن نقدر ذلك!</span>"
+  },
+  "options": {
+    "site_options": "خيارات الموقع:",
+    "dark_mode": "الوضع الداكن 👁️",
+    "button_auto": "🤖 تلقائي"
+  },
+  "preview": {
+    "placeholder_title": "[ معاينة ]",
+    "placeholder_desc": "قم بتحميل الصور لرؤية المعاينة",
+    "upload_icon": "🖼️",
+    "upload_text": "رفع",
+    "images": "الصور",
+    "image": "صورة",
+    "original": "الأصلي",
+    "result": "النتيجة",
+    "delete": "حذف"
+  },
+  "sidebar": {
+    "colors": "&nbsp;الألوان 🎨&nbsp;",
+    "add_color": "إضافة تغيير لون",
+    "settings": "&nbsp;إعدادات مميزة 🌟&nbsp;",
+    "export": "&nbsp;تصدير 💾&nbsp;",
+    "origin": "الأصل:",
+    "target": "استبدال بـ:"
+  },
+  "settings": {
+    "tolerance": "التسامح (Tolerance)",
+    "global_hue": "تدرج الألوان العالمي",
+    "colorize": "تلوين",
+    "intensity": "الكثافة",
+    "scale": "المقياس",
+    "format": "التنسيق",
+    "fmt_original": "الأصلي",
+    "split_view": "عرض مقسم",
+    "preserve_shading": "تفعيل الدرجات",
+    "scale_warning": "قد تستغرق الصور الكبيرة وقتًا أطول في المعالجة وقد تبطئ المتصفح."
+  },
+  "export": {
+    "current": "تنزيل الحالي",
+    "all": "تنزيل الكل (.zip)"
+  },
+  "showcase": {
+    "pixelart": "هل تبحث عن فن بكسل مثل هذا؟ 💎",
+    "render": "هل تبحث عن تصيير مثل هذا؟ 💎",
+    "animation": "هل تبحث عن رسوم متحركة مثل هذه؟ 💎"
+  },
+  "footer": {
+    "more_tools": "المزيد من الأدوات لك:",
+    "thanks_full": "شكرًا لـ <a href='https://alonsoaliaga.com/donate' rel='noopener' target='_blank' style='color:var(--link-color);'>AlonsoAliaga</a> و <a href='https://google.com' rel='noopener' target='_blank' style='color:var(--link-color);'>Gemini</a> على عملهما الشاق أثناء تطوير هذه الأداة."
+  },
+  "adblock": {
+    "add_color": "قم بتعطيل AdBlock لإلغاء قفل إضافة الألوان",
+    "bulk": "قم بتعطيل AdBlock لإلغاء قفل التنزيل الجماعي",
+    "premium": "قم بتعطيل AdBlock لإلغاء قفل الإعدادات المميزة"
+  },
+  "loading": {
+    "processing": "جاري المعالجة...",
+    "eta": "الوقت المقدر:",
+    "wait": "يرجى الانتظار حتى تنتهي العملية.",
+    "calculating": "جاري الحساب..."
+  }
+}

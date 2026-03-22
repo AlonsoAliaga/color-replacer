@@ -1,0 +1,71 @@
+{
+  "header": {
+    "warning": "Bain úsáid as Google Chrome nó Opera le haghaidh eispéireas níos fearr. Tuairiscítear nach bhfuil Edge comhoiriúnach!"
+  },
+  "desc": {
+    "title": "Cén fáth a n-úsáidfeá an uirlis seo?",
+    "p1": "Uaslódáil íomhánna iolracha agus cuir dathanna sainiúla in ionad a chéile ar an toirt. Foirfe chun <span class='rainbow'>uigeachtaí agus sprites</span> a nuashonrú! I measc na ngnéithe tá Panna & Súmáil, Amharc Roinnte, Athrú Lí Domhanda, agus Caomhnaigh Scáthú le haghaidh dathú gan uaim.",
+    "tagline": "Athdhathú íomhánna ar an mórchóir déanta éasca!",
+    "donate_full": "⚠️ Má tá smaointe iontacha agat, molaigh iad inár <a href='https://alonsoaliaga.com/discord' style='text-decoration:underline;'>freastalaí oifigiúil discord</a>.<br><span style='white-space:normal; line-height: 1.6; display:inline-block; margin-top:4px;'><img width='15px' src='https://i.imgur.com/Ef9FOQm.png' style='display:inline-block; vertical-align:middle; margin-bottom:2px; margin-right:4px;'>Má fuair tú an uirlis seo úsáideach, smaoinigh ar <a href='https://alonsoaliaga.com/donate' style='text-decoration:underline;'>síntiús a thabhairt</a> as ár gcuid oibre crua. Is mór againn é!</span>"
+  },
+  "options": {
+    "site_options": "Roghanna an tsuímh:",
+    "dark_mode": "Mód Dorcha 👁️",
+    "button_auto": "🤖 UATH"
+  },
+  "preview": {
+    "placeholder_title": "[ RÉAMHAMHARC ]",
+    "placeholder_desc": "Uaslódáil íomhánna chun an réamhamharc a fheiceáil",
+    "upload_icon": "🖼️",
+    "upload_text": "Uaslódáil",
+    "images": "Íomhánna",
+    "image": "Íomhá",
+    "original": "Bunaidh",
+    "result": "Toradh",
+    "delete": "Scrios"
+  },
+  "sidebar": {
+    "colors": "&nbsp;Dathanna 🎨&nbsp;",
+    "add_color": "Cuir Athrú Datha Leis",
+    "settings": "&nbsp;Socruithe Préimhe 🌟&nbsp;",
+    "export": "&nbsp;Easpórtáil 💾&nbsp;",
+    "origin": "Bunús:",
+    "target": "Cuir ina ionad:"
+  },
+  "settings": {
+    "tolerance": "Caoinfhulaingt",
+    "global_hue": "Lí Domhanda",
+    "colorize": "Dathaigh",
+    "intensity": "Déine",
+    "scale": "Scála",
+    "format": "Formáid",
+    "fmt_original": "Bunaidh",
+    "split_view": "Amharc Roinnte",
+    "preserve_shading": "Cumasaigh Toin",
+    "scale_warning": "D'fhéadfadh go dtógfadh sé níos mó ama íomhánna móra a phróiseáil agus d'fhéadfadh siad do bhrabhsálaí a mhoilliú."
+  },
+  "export": {
+    "current": "Íoslódáil an Ceann Reatha",
+    "all": "Íoslódáil Uile (.zip)"
+  },
+  "showcase": {
+    "pixelart": "Ag lorg ealaín picteilíní mar seo? 💎",
+    "render": "Ag lorg rindreáil mar seo? 💎",
+    "animation": "Ag lorg beochan mar seo? 💎"
+  },
+  "footer": {
+    "more_tools": "Tuilleadh uirlisí duit:",
+    "thanks_full": "Buíochas le <a href='https://alonsoaliaga.com/donate' rel='noopener' target='_blank' style='color:var(--link-color);'>AlonsoAliaga</a> agus <a href='https://google.com' rel='noopener' target='_blank' style='color:var(--link-color);'>Gemini</a> as a gcuid oibre crua le linn fhorbairt na huirlise seo."
+  },
+  "adblock": {
+    "add_color": "Díchumasaigh AdBlock chun Cuir Dathanna Leis a dhíghlasáil",
+    "bulk": "Díchumasaigh AdBlock chun Íoslódáil Bulc a dhíghlasáil",
+    "premium": "Díchumasaigh AdBlock chun Socruithe Préimhe a dhíghlasáil"
+  },
+  "loading": {
+    "processing": "Ag próiseáil...",
+    "eta": "Am measta:",
+    "wait": "Fan le do thoil go dtí go gcríochnóidh an próiseas.",
+    "calculating": "Ag ríomh..."
+  }
+}

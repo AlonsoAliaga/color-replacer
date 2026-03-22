@@ -1,0 +1,71 @@
+{
+  "header": {
+    "warning": "より良い体験のために Google Chrome または Opera を使用してください。Edge は非互換として報告されています！"
+  },
+  "desc": {
+    "title": "なぜこのツールを使うのですか？",
+    "p1": "複数の画像をアップロードして、特定の色を即座に一括置換します。<span class='rainbow'>テクスチャやスプライト</span>の更新に最適です！シームレスなカラー化のためのパン＆ズーム、分割表示、グローバル色相シフト、陰影の保持機能が含まれています。",
+    "tagline": "画像の一括色変更が簡単になりました！",
+    "donate_full": "⚠️ クールなアイデアがあれば、<a href='https://alonsoaliaga.com/discord' style='text-decoration:underline;'>公式 Discord サーバー</a> で提案してください。<br><span style='white-space:normal; line-height: 1.6; display:inline-block; margin-top:4px;'><img width='15px' src='https://i.imgur.com/Ef9FOQm.png' style='display:inline-block; vertical-align:middle; margin-bottom:2px; margin-right:4px;'>このツールが役に立った場合は、私たちのハードワークに対して <a href='https://alonsoaliaga.com/donate' style='text-decoration:underline;'>寄付</a> をご検討ください。感謝いたします！</span>"
+  },
+  "options": {
+    "site_options": "サイトオプション:",
+    "dark_mode": "ダークモード 👁️",
+    "button_auto": "🤖 自動"
+  },
+  "preview": {
+    "placeholder_title": "[ プレビュー ]",
+    "placeholder_desc": "画像をアップロードしてプレビューを表示します",
+    "upload_icon": "🖼️",
+    "upload_text": "アップロード",
+    "images": "画像",
+    "image": "画像",
+    "original": "オリジナル",
+    "result": "結果",
+    "delete": "削除"
+  },
+  "sidebar": {
+    "colors": "&nbsp;色 🎨&nbsp;",
+    "add_color": "色の変更を追加",
+    "settings": "&nbsp;プレミアム設定 🌟&nbsp;",
+    "export": "&nbsp;エクスポート 💾&nbsp;",
+    "origin": "元の色:",
+    "target": "置換後の色:"
+  },
+  "settings": {
+    "tolerance": "許容値",
+    "global_hue": "グローバル色相",
+    "colorize": "色付け",
+    "intensity": "強度",
+    "scale": "スケール",
+    "format": "フォーマット",
+    "fmt_original": "オリジナル",
+    "split_view": "分割表示",
+    "preserve_shading": "トーンを有効にする",
+    "scale_warning": "大きな画像は処理に時間がかかり、ブラウザの動作が遅くなる可能性があります。"
+  },
+  "export": {
+    "current": "現在の画像をダウンロード",
+    "all": "すべてダウンロード (.zip)"
+  },
+  "showcase": {
+    "pixelart": "このようなピクセルアートをお探しですか？ 💎",
+    "render": "このようなレンダリングをお探しですか？ 💎",
+    "animation": "このようなアニメーションをお探しですか？ 💎"
+  },
+  "footer": {
+    "more_tools": "その他のツール:",
+    "thanks_full": "このツールの開発における <a href='https://alonsoaliaga.com/donate' rel='noopener' target='_blank' style='color:var(--link-color);'>AlonsoAliaga</a> と <a href='https://google.com' rel='noopener' target='_blank' style='color:var(--link-color);'>Gemini</a> の尽力に感謝します。"
+  },
+  "adblock": {
+    "add_color": "「色の追加」をロック解除するには AdBlock を無効にしてください",
+    "bulk": "「一括ダウンロード」をロック解除するには AdBlock を無効にしてください",
+    "premium": "「プレミアム設定」をロック解除するには AdBlock を無効にしてください"
+  },
+  "loading": {
+    "processing": "処理中...",
+    "eta": "推定時間:",
+    "wait": "処理が完了するまでお待ちください。",
+    "calculating": "計算中..."
+  }
+}

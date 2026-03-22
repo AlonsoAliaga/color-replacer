@@ -1,0 +1,71 @@
+{
+  "header": {
+    "warning": "Verwende Google Chrome oder Opera für ein besseres Erlebnis. Edge wird als nicht kompatibel gemeldet!"
+  },
+  "desc": {
+    "title": "Warum dieses Tool verwenden?",
+    "p1": "Laden Sie mehrere Bilder hoch und ersetzen Sie bestimmte Farben sofort in großen Mengen. Perfekt zum Aktualisieren von <span class='rainbow'>Texturen und Sprites</span>! Zu den Funktionen gehören Schwenken & Zoomen, Geteilte Ansicht, Globale Farbtonverschiebung und Schattierung beibehalten für eine nahtlose Kolorierung.",
+    "tagline": "Massen-Umkolorierung von Bildern leicht gemacht!",
+    "donate_full": "⚠️ Wenn du coole Ideen hast, schlage diese auf unserem <a href='https://alonsoaliaga.com/discord' style='text-decoration:underline;'>offiziellen Discord-Server</a> vor.<br><span style='white-space:normal; line-height: 1.6; display:inline-block; margin-top:4px;'><img width='15px' src='https://i.imgur.com/Ef9FOQm.png' style='display:inline-block; vertical-align:middle; margin-bottom:2px; margin-right:4px;'>Wenn du dieses Tool nützlich fandest, erwäge <a href='https://alonsoaliaga.com/donate' style='text-decoration:underline;'>eine Spende</a> für unsere harte Arbeit. Wir wissen das sehr zu schätzen!</span>"
+  },
+  "options": {
+    "site_options": "Seitenoptionen:",
+    "dark_mode": "Dark Mode 👁️",
+    "button_auto": "🤖 AUTO"
+  },
+  "preview": {
+    "placeholder_title": "[ VORSCHAU ]",
+    "placeholder_desc": "Laden Sie Bilder hoch, um die Vorschau zu sehen",
+    "upload_icon": "🖼️",
+    "upload_text": "Hochladen",
+    "images": "Bilder",
+    "image": "Bild",
+    "original": "Original",
+    "result": "Ergebnis",
+    "delete": "Löschen"
+  },
+  "sidebar": {
+    "colors": "&nbsp;Farben 🎨&nbsp;",
+    "add_color": "Farbänderung hinzufügen",
+    "settings": "&nbsp;Premium-Einstellungen 🌟&nbsp;",
+    "export": "&nbsp;Exportieren 💾&nbsp;",
+    "origin": "Ursprung:",
+    "target": "Ersetzen durch:"
+  },
+  "settings": {
+    "tolerance": "Toleranz",
+    "global_hue": "Globaler Farbton",
+    "colorize": "Einfärben",
+    "intensity": "Intensität",
+    "scale": "Skalierung",
+    "format": "Format",
+    "fmt_original": "Original",
+    "split_view": "Geteilte Ansicht",
+    "preserve_shading": "Töne aktivieren",
+    "scale_warning": "Große Bilder können länger dauern und Ihren Browser verlangsamen."
+  },
+  "export": {
+    "current": "Aktuelles herunterladen",
+    "all": "Alle herunterladen (.zip)"
+  },
+  "showcase": {
+    "pixelart": "Suchst du nach so einem Pixelart? 💎",
+    "render": "Suchst du nach so einem Renderbild? 💎",
+    "animation": "Suchst du nach so einer Animation? 💎"
+  },
+  "footer": {
+    "more_tools": "Weitere Tools für dich:",
+    "thanks_full": "Danke an <a href='https://alonsoaliaga.com/donate' rel='noopener' target='_blank' style='color:var(--link-color);'>AlonsoAliaga</a> und <a href='https://google.com' rel='noopener' target='_blank' style='color:var(--link-color);'>Gemini</a> für ihre harte Arbeit bei der Entwicklung dieses Tools."
+  },
+  "adblock": {
+    "add_color": "Deaktiviere AdBlock, um Farben hinzufügen freizuschalten",
+    "bulk": "Deaktiviere AdBlock, um den Massendownload freizuschalten",
+    "premium": "Deaktiviere AdBlock, um Premium-Einstellungen freizuschalten"
+  },
+  "loading": {
+    "processing": "Wird verarbeitet...",
+    "eta": "Geschätzte Zeit:",
+    "wait": "Bitte warten, bis der Vorgang abgeschlossen ist.",
+    "calculating": "Berechnung..."
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "header": {
+    "warning": "Usa Google Chrome o Opera per un'esperienza migliore. Edge è segnalato come non compatibile!"
+  },
+  "desc": {
+    "title": "Perché usare questo strumento?",
+    "p1": "Carica più immagini e sostituisci istantaneamente colori specifici in blocco. Perfetto per aggiornare <span class='rainbow'>texture e sprite</span>! Le funzionalità includono Pan & Zoom, Visualizzazione Divisa, Cambio Tonalità Globale e Mantieni Ombreggiatura per una colorazione senza interruzioni.",
+    "tagline": "Ricolorazione di immagini in blocco resa facile!",
+    "donate_full": "⚠️ Se hai idee interessanti, suggeriscile nel nostro <a href='https://alonsoaliaga.com/discord' style='text-decoration:underline;'>server discord ufficiale</a>.<br><span style='white-space:normal; line-height: 1.6; display:inline-block; margin-top:4px;'><img width='15px' src='https://i.imgur.com/Ef9FOQm.png' style='display:inline-block; vertical-align:middle; margin-bottom:2px; margin-right:4px;'>Se hai trovato utile questo strumento, considera di <a href='https://alonsoaliaga.com/donate' style='text-decoration:underline;'>fare una donazione</a> per il nostro duro lavoro. Lo apprezziamo!</span>"
+  },
+  "options": {
+    "site_options": "Opzioni del sito:",
+    "dark_mode": "Modalità Scura 👁️",
+    "button_auto": "🤖 AUTO"
+  },
+  "preview": {
+    "placeholder_title": "[ ANTEPRIMA ]",
+    "placeholder_desc": "Carica le immagini per vedere l'anteprima",
+    "upload_icon": "🖼️",
+    "upload_text": "Carica",
+    "images": "Immagini",
+    "image": "Immagine",
+    "original": "Originale",
+    "result": "Risultato",
+    "delete": "Elimina"
+  },
+  "sidebar": {
+    "colors": "&nbsp;Colori 🎨&nbsp;",
+    "add_color": "Aggiungi Cambio Colore",
+    "settings": "&nbsp;Impostazioni Premium 🌟&nbsp;",
+    "export": "&nbsp;Esporta 💾&nbsp;",
+    "origin": "Origine:",
+    "target": "Sostituisci con:"
+  },
+  "settings": {
+    "tolerance": "Tolleranza",
+    "global_hue": "Tonalità Globale",
+    "colorize": "Colorizza",
+    "intensity": "Intensità",
+    "scale": "Scala",
+    "format": "Formato",
+    "fmt_original": "Originale",
+    "split_view": "Vista Divisa",
+    "preserve_shading": "Abilita Tonalità",
+    "scale_warning": "Le immagini di grandi dimensioni potrebbero richiedere più tempo per l'elaborazione e rallentare il browser."
+  },
+  "export": {
+    "current": "Scarica Attuale",
+    "all": "Scarica Tutto (.zip)"
+  },
+  "showcase": {
+    "pixelart": "Cerchi una pixel art come questa? 💎",
+    "render": "Cerchi un render come questo? 💎",
+    "animation": "Cerchi un'animazione come questa? 💎"
+  },
+  "footer": {
+    "more_tools": "Altri strumenti per te:",
+    "thanks_full": "Grazie a <a href='https://alonsoaliaga.com/donate' rel='noopener' target='_blank' style='color:var(--link-color);'>AlonsoAliaga</a> e <a href='https://google.com' rel='noopener' target='_blank' style='color:var(--link-color);'>Gemini</a> per il loro duro lavoro durante lo sviluppo di questo strumento."
+  },
+  "adblock": {
+    "add_color": "Disabilita AdBlock per sbloccare Aggiungi Colori",
+    "bulk": "Disabilita AdBlock per sbloccare il Download in Blocco",
+    "premium": "Disabilita AdBlock per sbloccare le Impostazioni Premium"
+  },
+  "loading": {
+    "processing": "Elaborazione in corso...",
+    "eta": "Tempo stimato:",
+    "wait": "Attendi la fine del processo.",
+    "calculating": "Calcolo in corso..."
+  }
+}

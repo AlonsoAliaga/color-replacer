@@ -1,0 +1,71 @@
+{
+  "header": {
+    "warning": "Use Google Chrome or Opera for a better experience. Edge is reported as not compatible!"
+  },
+  "desc": {
+    "title": "Why using this tool?",
+    "p1": "Upload multiple images and instantly replace specific colors in bulk. Perfect for updating <span class='rainbow'>textures and sprites</span>! Features include Pan & Zoom, Split View, Global Hue shift, and Preserve Shading for seamless colorization.",
+    "tagline": "Bulk image recoloring made easy!",
+    "donate_full": "⚠️ If you have cool ideas, suggest them in our <a href='https://alonsoaliaga.com/discord' style='text-decoration:underline;'>official discord server</a>.<br><span style='white-space:normal; line-height: 1.6; display:inline-block; margin-top:4px;'><img width='15px' src='https://i.imgur.com/Ef9FOQm.png' style='display:inline-block; vertical-align:middle; margin-bottom:2px; margin-right:4px;'>If you found this tool useful, consider <a href='https://alonsoaliaga.com/donate' style='text-decoration:underline;'>making a donation</a> for our hard work. We appreciate it!</span>"
+  },
+  "options": {
+    "site_options": "Site options:",
+    "dark_mode": "Dark Mode 👁️",
+    "button_auto": "🤖 AUTO"
+  },
+  "preview": {
+    "placeholder_title": "[ PREVIEW ]",
+    "placeholder_desc": "Upload images to see the preview",
+    "upload_icon": "🖼️",
+    "upload_text": "Upload",
+    "images": "Images",
+    "image": "Image",
+    "original": "Original",
+    "result": "Result",
+    "delete": "Delete"
+  },
+  "sidebar": {
+    "colors": "&nbsp;Colors 🎨&nbsp;",
+    "add_color": "Add Color Change",
+    "settings": "&nbsp;Premium Settings 🌟&nbsp;",
+    "export": "&nbsp;Export 💾&nbsp;",
+    "origin": "Origin:",
+    "target": "Replace with:"
+  },
+  "settings": {
+    "tolerance": "Tolerance",
+    "global_hue": "Global Hue",
+    "colorize": "Colorize",
+    "intensity": "Intensity",
+    "scale": "Scale",
+    "format": "Format",
+    "fmt_original": "Original",
+    "split_view": "Split View",
+    "preserve_shading": "Enable Tones",
+    "scale_warning": "Large images may take longer to process and could slow down your browser."
+  },
+  "export": {
+    "current": "Download Current",
+    "all": "Download All (.zip)"
+  },
+  "showcase": {
+    "pixelart": "Looking for a pixelart like this? 💎",
+    "render": "Looking for a render like this one? 💎",
+    "animation": "Looking for an animation like this one? 💎"
+  },
+  "footer": {
+    "more_tools": "More tools for you:",
+    "thanks_full": "Thanks to <a href='https://alonsoaliaga.com/donate' rel='noopener' target='_blank' style='color:var(--link-color);'>AlonsoAliaga</a> and <a href='https://google.com' rel='noopener' target='_blank' style='color:var(--link-color);'>Gemini</a> for their hard work during the development of this tool."
+  },
+  "adblock": {
+    "add_color": "Disable AdBlock to unlock Add Colors",
+    "bulk": "Disable AdBlock to unlock Bulk Download",
+    "premium": "Disable AdBlock to unlock Premium Settings"
+  },
+  "loading": {
+    "processing": "Processing...",
+    "eta": "Estimated time:",
+    "wait": "Please wait until the process finishes.",
+    "calculating": "Calculating..."
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "header": {
+    "warning": "使用 Google Chrome 或 Opera 以获得更好的体验。据报告 Edge 不兼容！"
+  },
+  "desc": {
+    "title": "为什么要使用这个工具？",
+    "p1": "上传多张图像并立即批量替换特定颜色。非常适合更新<span class='rainbow'>纹理和精灵图</span>！功能包括平移和缩放、分屏视图、全局色调偏移和保留阴影，实现无缝着色。",
+    "tagline": "批量图像重新着色变得简单！",
+    "donate_full": "⚠️ 如果您有好主意，请在我们的 <a href='https://alonsoaliaga.com/discord' style='text-decoration:underline;'>官方 Discord 服务器</a> 中提出建议。<br><span style='white-space:normal; line-height: 1.6; display:inline-block; margin-top:4px;'><img width='15px' src='https://i.imgur.com/Ef9FOQm.png' style='display:inline-block; vertical-align:middle; margin-bottom:2px; margin-right:4px;'>如果您觉得这个工具有用，请考虑 <a href='https://alonsoaliaga.com/donate' style='text-decoration:underline;'>捐赠</a> 以支持我们的辛勤工作。我们非常感激！</span>"
+  },
+  "options": {
+    "site_options": "站点选项：",
+    "dark_mode": "深色模式 👁️",
+    "button_auto": "🤖 自动"
+  },
+  "preview": {
+    "placeholder_title": "[ 预览 ]",
+    "placeholder_desc": "上传图像以查看预览",
+    "upload_icon": "🖼️",
+    "upload_text": "上传",
+    "images": "图像",
+    "image": "图像",
+    "original": "原图",
+    "result": "结果",
+    "delete": "删除"
+  },
+  "sidebar": {
+    "colors": "&nbsp;颜色 🎨&nbsp;",
+    "add_color": "添加颜色更改",
+    "settings": "&nbsp;高级设置 🌟&nbsp;",
+    "export": "&nbsp;导出 💾&nbsp;",
+    "origin": "原色：",
+    "target": "替换为："
+  },
+  "settings": {
+    "tolerance": "容差",
+    "global_hue": "全局色调",
+    "colorize": "着色",
+    "intensity": "强度",
+    "scale": "缩放",
+    "format": "格式",
+    "fmt_original": "原格式",
+    "split_view": "分屏视图",
+    "preserve_shading": "启用色调",
+    "scale_warning": "大图像可能需要更长的处理时间，并可能减慢您的浏览器速度。"
+  },
+  "export": {
+    "current": "下载当前",
+    "all": "下载全部 (.zip)"
+  },
+  "showcase": {
+    "pixelart": "正在寻找这样的像素画？ 💎",
+    "render": "正在寻找这样的渲染图？ 💎",
+    "animation": "正在寻找这样的动画？ 💎"
+  },
+  "footer": {
+    "more_tools": "为您提供更多工具：",
+    "thanks_full": "感谢 <a href='https://alonsoaliaga.com/donate' rel='noopener' target='_blank' style='color:var(--link-color);'>AlonsoAliaga</a> 和 <a href='https://google.com' rel='noopener' target='_blank' style='color:var(--link-color);'>Gemini</a> 在开发此工具期间的辛勤工作。"
+  },
+  "adblock": {
+    "add_color": "禁用 AdBlock 以解锁添加颜色",
+    "bulk": "禁用 AdBlock 以解锁批量下载",
+    "premium": "禁用 AdBlock 以解锁高级设置"
+  },
+  "loading": {
+    "processing": "处理中...",
+    "eta": "预计时间：",
+    "wait": "请稍候，直到处理完成。",
+    "calculating": "计算中..."
+  }
+}
